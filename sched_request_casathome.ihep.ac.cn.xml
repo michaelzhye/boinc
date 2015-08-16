@@ -1,7 +1,7 @@
 <scheduler_request>
     <authenticator>098dd33174b74e25dad113f512017044</authenticator>
     <hostid>49978</hostid>
-    <rpc_seqno>2</rpc_seqno>
+    <rpc_seqno>5</rpc_seqno>
     <core_client_major_version>7</core_client_major_version>
     <core_client_minor_version>2</core_client_minor_version>
     <core_client_release>42</core_client_release>
@@ -11,8 +11,8 @@
     <duration_correction_factor>1.000000</duration_correction_factor>
     <allow_multiple_clients>0</allow_multiple_clients>
     <sandbox>0</sandbox>
-    <work_req_seconds>78102.621518</work_req_seconds>
-    <cpu_req_secs>78102.621518</cpu_req_secs>
+    <work_req_seconds>78075.495425</work_req_seconds>
+    <cpu_req_secs>78075.495425</cpu_req_secs>
     <cpu_req_instances>1.000000</cpu_req_instances>
     <estimated_delay>0.000000</estimated_delay>
     <client_cap_plan_class>1</client_cap_plan_class>
@@ -74,22 +74,22 @@ bbad25e6350be07858a780763d3495e79941f9b733286ca10339557029f47018
 </working_global_preferences>
 <cross_project_id>ae866b1bd0c9816bbf8a4596cf10674d</cross_project_id>
 <time_stats>
-    <on_frac>0.982607</on_frac>
+    <on_frac>0.981566</on_frac>
     <connected_frac>-1.000000</connected_frac>
     <cpu_and_network_available_frac>0.999930</cpu_and_network_available_frac>
     <active_frac>0.999930</active_frac>
     <gpu_active_frac>0.999930</gpu_active_frac>
-    <client_start_time>1439721718.421203</client_start_time>
-    <previous_uptime>0.289917</previous_uptime>
-    <now>1439721718.711120</now>
+    <client_start_time>1439723857.662821</client_start_time>
+    <previous_uptime>0.340668</previous_uptime>
+    <now>1439723858.003489</now>
 </time_stats>
 <net_stats>
-    <bwup>1673.121460</bwup>
-    <avg_up>58282476.779415</avg_up>
-    <avg_time_up>1439721628.314544</avg_time_up>
-    <bwdown>1159944.695440</bwdown>
-    <avg_down>9312842707.412487</avg_down>
-    <avg_time_down>1439721647.206308</avg_time_down>
+    <bwup>2289.549013</bwup>
+    <avg_up>58214910.172019</avg_up>
+    <avg_time_up>1439722675.428342</avg_time_up>
+    <bwdown>1565401.575544</bwdown>
+    <avg_down>9301862939.506203</avg_down>
+    <avg_time_down>1439722676.740565</avg_time_down>
 </net_stats>
 <host_info>
     <timezone>28800</timezone>
@@ -109,14 +109,14 @@ bbad25e6350be07858a780763d3495e79941f9b733286ca10339557029f47018
     <m_cache>524288.000000</m_cache>
     <m_swap>0.000000</m_swap>
     <d_total>2948965310464.000000</d_total>
-    <d_free>1780320735232.000000</d_free>
+    <d_free>1780063567872.000000</d_free>
     <os_name>Linux</os_name>
     <os_version>3.13.0-57-generic</os_version>
 </host_info>
     <disk_usage>
-        <d_boinc_used_total>7815314.000000</d_boinc_used_total>
+        <d_boinc_used_total>7809855.000000</d_boinc_used_total>
         <d_boinc_used_project>0.000000</d_boinc_used_project>
-        <d_project_share>979121646999.979980</d_project_share>
+        <d_project_share>978980201949.530029</d_project_share>
     </disk_usage>
 <app_versions>
 </app_versions>

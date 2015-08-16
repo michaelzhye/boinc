@@ -3,7 +3,6 @@
 <dont_use_dcf/>
 <master_url>http://setiathome.berkeley.edu/</master_url>
 <request_delay>303.000000</request_delay>
-<message priority="low">Not sending work - last request too recent: 112 sec</message>
 <project_name>SETI@home</project_name>
 <userid>9837566</userid>
 <user_name>Michael Zhang</user_name>
@@ -19,6 +18,291 @@
 <host_venue></host_venue>
 <host_create_time>1439721629</host_create_time>
 <team_name></team_name>
+<app>
+    <name>setiathome_v7</name>
+    <user_friendly_name>SETI@home v7</user_friendly_name>
+    <non_cpu_intensive>0</non_cpu_intensive>
+    <fraction_done_exact>0</fraction_done_exact>
+</app>
+<file_info>
+    <name>setiathome_7.01_x86_64-pc-linux-gnu</name>
+    <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/setiathome_7.01_x86_64-pc-linux-gnu</url>
+    <executable/>
+    <file_signature>
+bcffac766de78bfa563fc42af7e131f0cfbd2e053d879078e7401664785a0bf7
+fb4a5d8e05172dfc1eb0c70e721c120b0546b40fbd07877cd8a6bd31900f0345
+b98c927fc152a499dfe73734072e7ea2fe59da8b7ac4d8152250590f874af2cc
+ff27f47829cc328b5da975f13e27e685accf7bac40fd1468c21bff86bc29be5d
+.
+    </file_signature>
+    <nbytes>1564204.000000</nbytes>
+</file_info>
+<file_info>
+    <name>setigraphics_7.01_x86_64-pc-linux-gnu</name>
+    <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/setigraphics_7.01_x86_64-pc-linux-gnu</url>
+    <executable/>
+    <file_signature>
+410d4084949dc815ddd8199b96528c2c6963340517e867f74ba8087b01bfbaab
+26f73bac634603856d4bd36023410e050867effe582d67fba4f1073dbac6fbca
+25f68d6021d23c90ff2d8f3bd9e70871464487052646c65efe656d19a260e9e5
+3bd96a7ff9a35c4ae99bfa855a83eea593d192b6e3536d4e79cc7a33804306a1
+.
+    </file_signature>
+    <nbytes>1012310.000000</nbytes>
+</file_info>
+<file_info>
+    <name>seti_701.jpg</name>
+    <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/seti_701.jpg</url>
+    <executable/>
+    <file_signature>
+694bd951d73186134cd6b45ed6d7c46d7d149938fad8ab107b7edd7b63436724
+3cfd13b2ae95ff8c3ee1bacdc0824d1aeec0efefdbe522584dd0c11ec8c5a68f
+670520514d33a5cf9a5bf0cb9bbc49b1f0c2a4ea60741bb5c6932585f4bca711
+75321eda2b86020175a5571fc3f51f96f58af64cd234b2d64a5150594f368625
+.
+    </file_signature>
+    <nbytes>9068.000000</nbytes>
+</file_info>
+<file_info>
+    <name>setiathome-7.01_AUTHORS</name>
+    <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/setiathome-7.01_AUTHORS</url>
+    <executable/>
+    <file_signature>
+17c25bfebdb69035f734df4a2dd16608d5a07047fa42918cbbf6a47a54ec895d
+f966541d5180ba65a7f5b1cb9b19791af278ed32ec19af40a6577dc9051f4d45
+48c898cfc40a00a30aeaa63478903f29897ec5041e03f7783c1142fc71849392
+347b43cfae2d1fe0befbc0b0f0d3caf5f68b9d8abf59e36f9ca0d3cfd9bcef14
+.
+    </file_signature>
+    <nbytes>777.000000</nbytes>
+</file_info>
+<file_info>
+    <name>setiathome-7.01_COPYING</name>
+    <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/setiathome-7.01_COPYING</url>
+    <executable/>
+    <file_signature>
+c0774560fd2b589aafeaaa360bc3f0eb0e9c1fad15bccd04c7a9158f96552bad
+1b36e47b709c65db43a3820a08def46a8a953adf6cb7777a5b01c96e1fe00ef8
+0cb27b910247ea561e9d32f6ac7033895cdc4b3ac5ed0f62c275439aca7f1579
+d35f3169f1299a8984cf6298dde01d252ebdfcc27191d316d18c9c0d8e4aad90
+.
+    </file_signature>
+    <nbytes>17992.000000</nbytes>
+</file_info>
+<file_info>
+    <name>setiathome-7.01_COPYRIGHT</name>
+    <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/setiathome-7.01_COPYRIGHT</url>
+    <executable/>
+    <file_signature>
+568b744e09ccff5444000e43e0e837f106f6c5cd62885b2bdabc478bf4533e40
+73d69c2e3ed03602d0a46c778ce740412fd20c5ae2a6e58ad8fb5eb90f60c543
+125ef35e15335f4c7c085eb3001adebc0b6246f34ad50fde8622c87db5528e24
+4721e086f1d07ca82eacf2e239652ddd9e8124e36e15ad62f8a182860c87a0cc
+.
+    </file_signature>
+    <nbytes>2000.000000</nbytes>
+</file_info>
+<file_info>
+    <name>setiathome-7.01_README</name>
+    <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/setiathome-7.01_README</url>
+    <executable/>
+    <file_signature>
+449f726bcb1d67225e0f08df03c331b626a6cae594589fbc62bc778d7e5bf2ea
+c4c1a6658bc99d7aea531593fe76bf9997fee9f290998871c89dff8db4e75092
+e3e0439408c0a817024b1778ec0a1ac01de64b51f5c611d6b9fee8d5c038204e
+211ea392bdd7670a306a8cf3e29994969a3cbb7cb88de80ba0a8960b5894b538
+.
+    </file_signature>
+    <nbytes>2065.000000</nbytes>
+</file_info>
+<app_version>
+    <app_name>setiathome_v7</app_name>
+    <version_num>701</version_num>
+    <file_ref>
+       <file_name>setiathome_7.01_x86_64-pc-linux-gnu</file_name>
+       <main_program/>
+    </file_ref>
+    <file_ref>
+       <file_name>setigraphics_7.01_x86_64-pc-linux-gnu</file_name>
+       <open_name>graphics_app</open_name>
+    </file_ref>
+    <file_ref>
+       <file_name>seti_701.jpg</file_name>
+       <open_name>seti_logo</open_name>
+    </file_ref>
+    <file_ref>
+       <file_name>setiathome-7.01_AUTHORS</file_name>
+       <open_name>setiathome-7.01_AUTHORS</open_name>
+    </file_ref>
+    <file_ref>
+       <file_name>setiathome-7.01_COPYING</file_name>
+       <open_name>setiathome-7.01_COPYING</open_name>
+    </file_ref>
+    <file_ref>
+       <file_name>setiathome-7.01_COPYRIGHT</file_name>
+       <open_name>setiathome-7.01_COPYRIGHT</open_name>
+    </file_ref>
+    <file_ref>
+       <file_name>setiathome-7.01_README</file_name>
+       <open_name>setiathome-7.01_README</open_name>
+    </file_ref>
+    <platform>x86_64-pc-linux-gnu</platform>
+    <avg_ncpus>1.000000</avg_ncpus>
+    <max_ncpus>1.000000</max_ncpus>
+    <flops>7330560667.990833</flops>
+</app_version>
+<file_info>
+    <name>26dc14ab.2796.7429.438086664199.12.89.vlar</name>
+    <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/1ff/26dc14ab.2796.7429.438086664199.12.89.vlar</url>
+    <md5_cksum>f6a57605048396772633db3a2f25bf13</md5_cksum>
+    <nbytes>375712</nbytes>
+</file_info>
+<workunit>
+    <rsc_fpops_est>183887307748840.000000</rsc_fpops_est>
+    <rsc_fpops_bound>3677746154976800.000000</rsc_fpops_bound>
+    <rsc_memory_bound>33554432.000000</rsc_memory_bound>
+    <rsc_disk_bound>33554432.000000</rsc_disk_bound>
+    <name>26dc14ab.2796.7429.438086664199.12.89.vlar</name>
+    <app_name>setiathome_v7</app_name>
+<file_ref>
+    <file_name>26dc14ab.2796.7429.438086664199.12.89.vlar</file_name>
+    <open_name>work_unit.sah</open_name>
+</file_ref>
+</workunit>
+<file_info>
+    <name>25dc14aa.2864.7429.438086664200.12.70</name>
+    <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/3d8/25dc14aa.2864.7429.438086664200.12.70</url>
+    <md5_cksum>0608cf3ef7650bb9a3706dc1cf0f4b5e</md5_cksum>
+    <nbytes>375718</nbytes>
+</file_info>
+<workunit>
+    <rsc_fpops_est>150821195402324.000000</rsc_fpops_est>
+    <rsc_fpops_bound>3016423908046480.000000</rsc_fpops_bound>
+    <rsc_memory_bound>33554432.000000</rsc_memory_bound>
+    <rsc_disk_bound>33554432.000000</rsc_disk_bound>
+    <name>25dc14aa.2864.7429.438086664200.12.70</name>
+    <app_name>setiathome_v7</app_name>
+<file_ref>
+    <file_name>25dc14aa.2864.7429.438086664200.12.70</file_name>
+    <open_name>work_unit.sah</open_name>
+</file_ref>
+</workunit>
+<file_info>
+    <name>24dc14ab.2905.6202.438086664202.12.56</name>
+    <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/24e/24dc14ab.2905.6202.438086664202.12.56</url>
+    <md5_cksum>35fce987eb6f1d45da95bbca94257239</md5_cksum>
+    <nbytes>375697</nbytes>
+</file_info>
+<workunit>
+    <rsc_fpops_est>183678778105566.000000</rsc_fpops_est>
+    <rsc_fpops_bound>3673575562111320.000000</rsc_fpops_bound>
+    <rsc_memory_bound>33554432.000000</rsc_memory_bound>
+    <rsc_disk_bound>33554432.000000</rsc_disk_bound>
+    <name>24dc14ab.2905.6202.438086664202.12.56</name>
+    <app_name>setiathome_v7</app_name>
+<file_ref>
+    <file_name>24dc14ab.2905.6202.438086664202.12.56</file_name>
+    <open_name>work_unit.sah</open_name>
+</file_ref>
+</workunit>
+<file_info>
+    <name>25dc14aa.2864.7429.438086664200.12.88</name>
+    <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/2c6/25dc14aa.2864.7429.438086664200.12.88</url>
+    <md5_cksum>48544b64f9025855fd7fda279d892c1d</md5_cksum>
+    <nbytes>375712</nbytes>
+</file_info>
+<workunit>
+    <rsc_fpops_est>150821195402324.000000</rsc_fpops_est>
+    <rsc_fpops_bound>3016423908046480.000000</rsc_fpops_bound>
+    <rsc_memory_bound>33554432.000000</rsc_memory_bound>
+    <rsc_disk_bound>33554432.000000</rsc_disk_bound>
+    <name>25dc14aa.2864.7429.438086664200.12.88</name>
+    <app_name>setiathome_v7</app_name>
+<file_ref>
+    <file_name>25dc14aa.2864.7429.438086664200.12.88</file_name>
+    <open_name>work_unit.sah</open_name>
+</file_ref>
+</workunit>
+<file_info>
+  <name>26dc14ab.2796.7429.438086664199.12.89.vlar_0_0</name>
+  <generated_locally/>
+  <upload_when_present/>
+  <max_nbytes>65535</max_nbytes>
+  <url>http://setiboincdata.ssl.berkeley.edu/sah_cgi/file_upload_handler</url>
+</file_info>
+<result>
+<report_deadline>1444321052</report_deadline>
+<wu_name>26dc14ab.2796.7429.438086664199.12.89.vlar</wu_name>
+<name>26dc14ab.2796.7429.438086664199.12.89.vlar_0</name>
+  <file_ref>
+    <file_name>26dc14ab.2796.7429.438086664199.12.89.vlar_0_0</file_name>
+    <open_name>result.sah</open_name>
+  </file_ref>
+
+    <platform>x86_64-pc-linux-gnu</platform>
+    <version_num>701</version_num>
+    <plan_class></plan_class>
+</result>
+<file_info>
+  <name>25dc14aa.2864.7429.438086664200.12.70_1_0</name>
+  <generated_locally/>
+  <upload_when_present/>
+  <max_nbytes>65535</max_nbytes>
+  <url>http://setiboincdata.ssl.berkeley.edu/sah_cgi/file_upload_handler</url>
+</file_info>
+<result>
+<report_deadline>1443494399</report_deadline>
+<wu_name>25dc14aa.2864.7429.438086664200.12.70</wu_name>
+<name>25dc14aa.2864.7429.438086664200.12.70_1</name>
+  <file_ref>
+    <file_name>25dc14aa.2864.7429.438086664200.12.70_1_0</file_name>
+    <open_name>result.sah</open_name>
+  </file_ref>
+
+    <platform>x86_64-pc-linux-gnu</platform>
+    <version_num>701</version_num>
+    <plan_class></plan_class>
+</result>
+<file_info>
+  <name>24dc14ab.2905.6202.438086664202.12.56_1_0</name>
+  <generated_locally/>
+  <upload_when_present/>
+  <max_nbytes>65535</max_nbytes>
+  <url>http://setiboincdata.ssl.berkeley.edu/sah_cgi/file_upload_handler</url>
+</file_info>
+<result>
+<report_deadline>1444315839</report_deadline>
+<wu_name>24dc14ab.2905.6202.438086664202.12.56</wu_name>
+<name>24dc14ab.2905.6202.438086664202.12.56_1</name>
+  <file_ref>
+    <file_name>24dc14ab.2905.6202.438086664202.12.56_1_0</file_name>
+    <open_name>result.sah</open_name>
+  </file_ref>
+
+    <platform>x86_64-pc-linux-gnu</platform>
+    <version_num>701</version_num>
+    <plan_class></plan_class>
+</result>
+<file_info>
+  <name>25dc14aa.2864.7429.438086664200.12.88_1_0</name>
+  <generated_locally/>
+  <upload_when_present/>
+  <max_nbytes>65535</max_nbytes>
+  <url>http://setiboincdata.ssl.berkeley.edu/sah_cgi/file_upload_handler</url>
+</file_info>
+<result>
+<report_deadline>1443494399</report_deadline>
+<wu_name>25dc14aa.2864.7429.438086664200.12.88</wu_name>
+<name>25dc14aa.2864.7429.438086664200.12.88_1</name>
+  <file_ref>
+    <file_name>25dc14aa.2864.7429.438086664200.12.88_1_0</file_name>
+    <open_name>result.sah</open_name>
+  </file_ref>
+
+    <platform>x86_64-pc-linux-gnu</platform>
+    <version_num>701</version_num>
+    <plan_class></plan_class>
+</result>
 <gui_urls>
     <gui_url>
         <name>Message boards</name>

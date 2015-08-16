@@ -14,3 +14,5 @@ Optimal function choices:
              v_vTranspose4x16ntw 0.005609 0.00000 
                   BH SSE folding 0.004416 0.00000 
 Restarted at 0.06 percent.
+Restarted at 0.06 percent.
+Restarted at 0.06 percent.
