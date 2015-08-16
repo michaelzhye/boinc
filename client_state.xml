@@ -17,29 +17,29 @@
     <m_cache>524288.000000</m_cache>
     <m_swap>0.000000</m_swap>
     <d_total>2948965310464.000000</d_total>
-    <d_free>1780063518720.000000</d_free>
+    <d_free>1780023545856.000000</d_free>
     <os_name>Linux</os_name>
     <os_version>3.13.0-57-generic</os_version>
     <coprocs>
     </coprocs>
 </host_info>
 <time_stats>
-    <on_frac>0.980220</on_frac>
+    <on_frac>0.979128</on_frac>
     <connected_frac>-1.000000</connected_frac>
     <cpu_and_network_available_frac>0.999930</cpu_and_network_available_frac>
     <active_frac>0.999930</active_frac>
     <gpu_active_frac>0.999930</gpu_active_frac>
-    <client_start_time>1439723857.662821</client_start_time>
-    <previous_uptime>16.574280</previous_uptime>
-    <last_update>1439723868.132559</last_update>
+    <client_start_time>1439724934.345124</client_start_time>
+    <previous_uptime>28.447172</previous_uptime>
+    <last_update>1439724954.731996</last_update>
 </time_stats>
 <net_stats>
     <bwup>2822.892550</bwup>
     <avg_up>58136525.508699</avg_up>
     <avg_time_up>1439723868.904623</avg_time_up>
-    <bwdown>1862196.795509</bwdown>
-    <avg_down>9289234456.711388</avg_down>
-    <avg_time_down>1439723862.152034</avg_time_down>
+    <bwdown>2552258.357508</bwdown>
+    <avg_down>9277869587.003485</avg_down>
+    <avg_time_down>1439724938.717359</avg_time_down>
 </net_stats>
 <project>
     <master_url>http://casathome.ihep.ac.cn/</master_url>
@@ -63,10 +63,10 @@
     <host_create_time>1439723009.000000</host_create_time>
     <nrpc_failures>0</nrpc_failures>
     <master_fetch_failures>0</master_fetch_failures>
-    <min_rpc_time>1439723922.064039</min_rpc_time>
+    <min_rpc_time>0.000000</min_rpc_time>
     <next_rpc_time>0.000000</next_rpc_time>
     <rec>0.000000</rec>
-    <rec_time>1439723874.237101</rec_time>
+    <rec_time>1439724962.792296</rec_time>
     <resource_share>100.000000</resource_share>
     <desired_disk_usage>0.000000</desired_disk_usage>
     <duration_correction_factor>1.000000</duration_correction_factor>
@@ -76,11 +76,11 @@
     <dont_use_dcf/>
     <rsc_backoff_time>
         <name>CPU</name>
-        <value>1439724486.614907</value>
+        <value>0.000000</value>
     </rsc_backoff_time>
     <rsc_backoff_interval>
         <name>CPU</name>
-        <value>600.000000</value>
+        <value>0.000000</value>
     </rsc_backoff_interval>
     <scheduler_url>http://202.122.33.101/cas_cgi/cgi</scheduler_url>
     <scheduler_url>http://casathome.ihep.ac.cn/cas_cgi/cgi</scheduler_url>
@@ -119,10 +119,10 @@ bbad25e6350be07858a780763d3495e79941f9b733286ca10339557029f47018
     <host_create_time>1439721629.000000</host_create_time>
     <nrpc_failures>0</nrpc_failures>
     <master_fetch_failures>0</master_fetch_failures>
-    <min_rpc_time>1439724172.153242</min_rpc_time>
+    <min_rpc_time>0.000000</min_rpc_time>
     <next_rpc_time>0.000000</next_rpc_time>
-    <rec>0.030624</rec>
-    <rec_time>1439723874.237101</rec_time>
+    <rec>0.096929</rec>
+    <rec_time>1439724962.792296</rec_time>
     <resource_share>100.000000</resource_share>
     <desired_disk_usage>0.000000</desired_disk_usage>
     <duration_correction_factor>1.000000</duration_correction_factor>
@@ -321,76 +321,32 @@ e3e0439408c0a817024b1778ec0a1ac01de64b51f5c611d6b9fee8d5c038204e
     <nbytes>375712.000000</nbytes>
     <max_nbytes>0.000000</max_nbytes>
     <md5_cksum>f6a57605048396772633db3a2f25bf13</md5_cksum>
-    <status>0</status>
+    <status>1</status>
     <download_url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/1ff/26dc14ab.2796.7429.438086664199.12.89.vlar</download_url>
-    <persistent_file_xfer>
-        <num_retries>0</num_retries>
-        <first_request_time>1439723870.237650</first_request_time>
-        <next_request_time>1439723870.237650</next_request_time>
-        <time_so_far>2.002217</time_so_far>
-        <last_bytes_xferred>25848.000000</last_bytes_xferred>
-        <is_upload>0</is_upload>
-    </persistent_file_xfer>
-    <file_xfer>
-        <bytes_xferred>159684.000000</bytes_xferred>
-        <file_offset>0.000000</file_offset>
-        <xfer_speed>53257.293197</xfer_speed>
-        <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/1ff/26dc14ab.2796.7429.438086664199.12.89.vlar</url>
-    </file_xfer>
 </file>
 <file>
     <name>25dc14aa.2864.7429.438086664200.12.70</name>
     <nbytes>375718.000000</nbytes>
     <max_nbytes>0.000000</max_nbytes>
     <md5_cksum>0608cf3ef7650bb9a3706dc1cf0f4b5e</md5_cksum>
-    <status>0</status>
+    <status>1</status>
     <download_url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/3d8/25dc14aa.2864.7429.438086664200.12.70</download_url>
-    <persistent_file_xfer>
-        <num_retries>0</num_retries>
-        <first_request_time>1439723870.237650</first_request_time>
-        <next_request_time>1439723870.237650</next_request_time>
-        <time_so_far>2.002217</time_so_far>
-        <last_bytes_xferred>31736.000000</last_bytes_xferred>
-        <is_upload>0</is_upload>
-    </persistent_file_xfer>
-    <file_xfer>
-        <bytes_xferred>180936.000000</bytes_xferred>
-        <file_offset>0.000000</file_offset>
-        <xfer_speed>62056.747294</xfer_speed>
-        <url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/3d8/25dc14aa.2864.7429.438086664200.12.70</url>
-    </file_xfer>
 </file>
 <file>
     <name>24dc14ab.2905.6202.438086664202.12.56</name>
     <nbytes>375697.000000</nbytes>
     <max_nbytes>0.000000</max_nbytes>
     <md5_cksum>35fce987eb6f1d45da95bbca94257239</md5_cksum>
-    <status>0</status>
+    <status>1</status>
     <download_url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/24e/24dc14ab.2905.6202.438086664202.12.56</download_url>
-    <persistent_file_xfer>
-        <num_retries>0</num_retries>
-        <first_request_time>1439723870.237650</first_request_time>
-        <next_request_time>1439723870.237650</next_request_time>
-        <time_so_far>0.000000</time_so_far>
-        <last_bytes_xferred>0.000000</last_bytes_xferred>
-        <is_upload>0</is_upload>
-    </persistent_file_xfer>
 </file>
 <file>
     <name>25dc14aa.2864.7429.438086664200.12.88</name>
     <nbytes>375712.000000</nbytes>
     <max_nbytes>0.000000</max_nbytes>
     <md5_cksum>48544b64f9025855fd7fda279d892c1d</md5_cksum>
-    <status>0</status>
+    <status>1</status>
     <download_url>http://boinc2.ssl.berkeley.edu/sah/download_fanout/2c6/25dc14aa.2864.7429.438086664200.12.88</download_url>
-    <persistent_file_xfer>
-        <num_retries>0</num_retries>
-        <first_request_time>1439723870.237650</first_request_time>
-        <next_request_time>1439723870.237650</next_request_time>
-        <time_so_far>0.000000</time_so_far>
-        <last_bytes_xferred>0.000000</last_bytes_xferred>
-        <is_upload>0</is_upload>
-    </persistent_file_xfer>
 </file>
 <file>
     <name>26dc14ab.2796.7429.438086664199.12.89.vlar_0_0</name>
@@ -542,7 +498,7 @@ e3e0439408c0a817024b1778ec0a1ac01de64b51f5c611d6b9fee8d5c038204e
     <final_cpu_time>0.000000</final_cpu_time>
     <final_elapsed_time>0.000000</final_elapsed_time>
     <exit_status>0</exit_status>
-    <state>1</state>
+    <state>2</state>
     <platform>x86_64-pc-linux-gnu</platform>
     <version_num>701</version_num>
     <wu_name>25dc14aa.2864.7429.438086664200.12.88</wu_name>
@@ -558,7 +514,7 @@ e3e0439408c0a817024b1778ec0a1ac01de64b51f5c611d6b9fee8d5c038204e
     <final_cpu_time>0.000000</final_cpu_time>
     <final_elapsed_time>0.000000</final_elapsed_time>
     <exit_status>0</exit_status>
-    <state>1</state>
+    <state>2</state>
     <platform>x86_64-pc-linux-gnu</platform>
     <version_num>701</version_num>
     <wu_name>26dc14ab.2796.7429.438086664199.12.89.vlar</wu_name>
@@ -574,7 +530,7 @@ e3e0439408c0a817024b1778ec0a1ac01de64b51f5c611d6b9fee8d5c038204e
     <final_cpu_time>0.000000</final_cpu_time>
     <final_elapsed_time>0.000000</final_elapsed_time>
     <exit_status>0</exit_status>
-    <state>1</state>
+    <state>2</state>
     <platform>x86_64-pc-linux-gnu</platform>
     <version_num>701</version_num>
     <wu_name>25dc14aa.2864.7429.438086664200.12.70</wu_name>
@@ -590,7 +546,7 @@ e3e0439408c0a817024b1778ec0a1ac01de64b51f5c611d6b9fee8d5c038204e
     <final_cpu_time>0.000000</final_cpu_time>
     <final_elapsed_time>0.000000</final_elapsed_time>
     <exit_status>0</exit_status>
-    <state>1</state>
+    <state>2</state>
     <platform>x86_64-pc-linux-gnu</platform>
     <version_num>701</version_num>
     <wu_name>24dc14ab.2905.6202.438086664202.12.56</wu_name>
@@ -638,15 +594,32 @@ e3e0439408c0a817024b1778ec0a1ac01de64b51f5c611d6b9fee8d5c038204e
     <active_task_state>2</active_task_state>
     <app_version_num>701</app_version_num>
     <slot>0</slot>
-    <checkpoint_cpu_time>60.089600</checkpoint_cpu_time>
-    <checkpoint_elapsed_time>61.321484</checkpoint_elapsed_time>
-    <checkpoint_fraction_done>0.000695</checkpoint_fraction_done>
-    <checkpoint_fraction_done_elapsed_time>61.321484</checkpoint_fraction_done_elapsed_time>
-    <current_cpu_time>75.166490</current_cpu_time>
+    <checkpoint_cpu_time>115.087000</checkpoint_cpu_time>
+    <checkpoint_elapsed_time>123.595044</checkpoint_elapsed_time>
+    <checkpoint_fraction_done>0.002899</checkpoint_fraction_done>
+    <checkpoint_fraction_done_elapsed_time>123.595044</checkpoint_fraction_done_elapsed_time>
+    <current_cpu_time>139.991200</current_cpu_time>
     <once_ran_edf>0</once_ran_edf>
-    <swap_size>167907328.000000</swap_size>
-    <working_set_size>68296704.000000</working_set_size>
-    <working_set_size_smoothed>55132385.000000</working_set_size_smoothed>
+    <swap_size>110100480.000000</swap_size>
+    <working_set_size>39604224.000000</working_set_size>
+    <working_set_size_smoothed>54446645.054932</working_set_size_smoothed>
+    <page_fault_rate>0.000000</page_fault_rate>
+</active_task>
+<active_task>
+    <project_master_url>http://setiathome.berkeley.edu/</project_master_url>
+    <result_name>25dc14aa.2864.7429.438086664200.12.70_1</result_name>
+    <active_task_state>2</active_task_state>
+    <app_version_num>701</app_version_num>
+    <slot>1</slot>
+    <checkpoint_cpu_time>59.241700</checkpoint_cpu_time>
+    <checkpoint_elapsed_time>62.273560</checkpoint_elapsed_time>
+    <checkpoint_fraction_done>0.001403</checkpoint_fraction_done>
+    <checkpoint_fraction_done_elapsed_time>62.273560</checkpoint_fraction_done_elapsed_time>
+    <current_cpu_time>83.196940</current_cpu_time>
+    <once_ran_edf>0</once_ran_edf>
+    <swap_size>110063616.000000</swap_size>
+    <working_set_size>39432192.000000</working_set_size>
+    <working_set_size_smoothed>54536094.000000</working_set_size_smoothed>
     <page_fault_rate>0.000000</page_fault_rate>
 </active_task>
 </active_task_set>
