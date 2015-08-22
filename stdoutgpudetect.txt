@@ -1,13 +1,4 @@
-16-Aug-2015 14:15:58 [---] cc_config.xml not found - using defaults
-16-Aug-2015 14:16:10 [---] cc_config.xml not found - using defaults
-16-Aug-2015 18:26:17 [---] cc_config.xml not found - using defaults
-16-Aug-2015 18:28:58 [---] cc_config.xml not found - using defaults
-16-Aug-2015 18:36:53 [---] cc_config.xml not found - using defaults
-16-Aug-2015 18:41:58 [---] cc_config.xml not found - using defaults
-16-Aug-2015 18:57:52 [---] cc_config.xml not found - using defaults
-16-Aug-2015 19:17:37 [---] cc_config.xml not found - using defaults
-16-Aug-2015 19:26:17 [---] cc_config.xml not found - using defaults
-16-Aug-2015 19:26:34 [---] cc_config.xml not found - using defaults
-16-Aug-2015 19:27:01 [---] cc_config.xml not found - using defaults
-16-Aug-2015 19:27:56 [---] cc_config.xml not found - using defaults
-16-Aug-2015 19:35:34 [---] cc_config.xml not found - using defaults
+16-Aug-2015 18:55:53 [---] cc_config.xml not found - using defaults
+16-Aug-2015 18:58:02 [---] cc_config.xml not found - using defaults
+19-Aug-2015 17:58:44 [---] cc_config.xml not found - using defaults
+19-Aug-2015 18:00:28 [---] cc_config.xml not found - using defaults

@@ -2,25 +2,25 @@
 <major_version>7</major_version>
 <minor_version>2</minor_version>
 <release>42</release>
-<app_version>701</app_version>
-<userid>9837566</userid>
+<app_version>136</app_version>
+<userid>201859</userid>
 <teamid>0</teamid>
-<hostid>7722327</hostid>
-<app_name>setiathome_v7</app_name>
-<user_name>Michael Zhang</user_name>
-<project_dir>/root/BOINC/projects/setiathome.berkeley.edu</project_dir>
-<boinc_dir>/root/BOINC</boinc_dir>
-<authenticator>e7216cbdbd98f4861e964a76f34c990f</authenticator>
-<wu_name>09dc14ab.8135.2112.438086664201.12.22.vlar</wu_name>
-<result_name>09dc14ab.8135.2112.438086664201.12.22.vlar_0</result_name>
-<shm_key>16777789</shm_key>
+<hostid>628664</hostid>
+<app_name>milkyway_separation__modified_fit</app_name>
+<user_name>admin</user_name>
+<project_dir>/root/boinc/projects/milkyway.cs.rpi.edu_milkyway</project_dir>
+<boinc_dir>/root/boinc</boinc_dir>
+<authenticator>201859_4f19d4f0e0d4a0b96bcd901dba63a747</authenticator>
+<wu_name>de_nonmodfit_fast_15_3s_136_sim1Aug1_2_1437561602_9944072</wu_name>
+<result_name>de_nonmodfit_fast_15_3s_136_sim1Aug1_2_1437561602_9944072_2</result_name>
+<shm_key>-1</shm_key>
 <slot>0</slot>
-<client_pid>18479</client_pid>
-<wu_cpu_time>115.087000</wu_cpu_time>
-<starting_elapsed_time>123.595044</starting_elapsed_time>
+<client_pid>4525</client_pid>
+<wu_cpu_time>0.000000</wu_cpu_time>
+<starting_elapsed_time>0.000000</starting_elapsed_time>
 <using_sandbox>0</using_sandbox>
-<vm_extensions_disabled>0</vm_extensions_disabled><user_total_credit>493522.165827</user_total_credit>
-<user_expavg_credit>109.453253</user_expavg_credit>
+<vm_extensions_disabled>0</vm_extensions_disabled><user_total_credit>364088.384021</user_total_credit>
+<user_expavg_credit>2116.737962</user_expavg_credit>
 <host_total_credit>0.000000</host_total_credit>
 <host_expavg_credit>0.000000</host_expavg_credit>
 <resource_share_fraction>1.000000</resource_share_fraction>
@@ -32,11 +32,11 @@
 <gpu_opencl_dev_index>-1</gpu_opencl_dev_index>
 <gpu_usage>0.000000</gpu_usage>
 <ncpus>1.000000</ncpus>
-<rsc_fpops_est>183887307748840.000000</rsc_fpops_est>
-<rsc_fpops_bound>3677746154976800.000000</rsc_fpops_bound>
-<rsc_memory_bound>33554432.000000</rsc_memory_bound>
-<rsc_disk_bound>33554432.000000</rsc_disk_bound>
-<computation_deadline>1444310172.000000</computation_deadline>
+<rsc_fpops_est>4951320000000.000000</rsc_fpops_est>
+<rsc_fpops_bound>4951320000000000.000000</rsc_fpops_bound>
+<rsc_memory_bound>50000000.000000</rsc_memory_bound>
+<rsc_disk_bound>15000000.000000</rsc_disk_bound>
+<computation_deadline>1441006532.000000</computation_deadline>
 <vbox_window>0</vbox_window>
 <host_info>
     <timezone>28800</timezone>
@@ -47,16 +47,16 @@
     <p_vendor>AuthenticAMD</p_vendor>
     <p_model>AMD E-350 Processor [Family 20 Model 1 Stepping 0]</p_model>
     <p_features>fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc extd_apicid aperfmperf pni monitor ssse3 cx16 popcnt lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch ibs skinit wdt arat hw_pstate npt lbrv svm_lock nrip_save pausefilter vmmcall</p_features>
-    <p_fpops>1349708030.288869</p_fpops>
-    <p_iops>5076442802.611730</p_iops>
+    <p_fpops>1345775919.848238</p_fpops>
+    <p_iops>5061081504.320670</p_iops>
     <p_membw>1000000000.000000</p_membw>
-    <p_calculated>1439721516.107413</p_calculated>
+    <p_calculated>1439978355.793801</p_calculated>
     <p_vm_extensions_disabled>0</p_vm_extensions_disabled>
     <m_nbytes>3744915456.000000</m_nbytes>
     <m_cache>524288.000000</m_cache>
     <m_swap>0.000000</m_swap>
     <d_total>2948965310464.000000</d_total>
-    <d_free>1780023595008.000000</d_free>
+    <d_free>1776808230912.000000</d_free>
     <os_name>Linux</os_name>
     <os_version>3.13.0-57-generic</os_version>
     <coprocs>
